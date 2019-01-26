@@ -1,0 +1,13 @@
+
+    a {color:black;
+    text-decoration:none;}
+    body {font-family:monospace; margin:0;}
+    h1 {font-size:70px; text-align:center; border-bottom:2px solid gray; margin:0; padding:20px;}
+    h2 {font-size:50px;}
+    p {font-size:20px;}
+    ol {font-size:20px; border-right:2px solid gray; width:150px; margin:0; padding:38px;}
+    img {margin:20;}
+
+    #grid{display:grid; grid-template-columns: 300px 1fr}
+    #article {padding-left:0px;}
+    #video {margin:20;}
